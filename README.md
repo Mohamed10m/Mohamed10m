@@ -7,7 +7,7 @@
 - 👀 I’m interested in developing innovative mobile applications using Flutter.
 - 🌱 I’m currently learning advanced state management techniques and backend integration for building high-performance apps.
 - 💞️ I’m looking to collaborate on impactful Flutter projects.
-- 📫 How to reach me: [Email](mailto:mohamedelshenawy629@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-maher0/)
+- 📫 How to reach me: [Email](mailto:mohamedelshenawy629@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-mahmoud-b7227a182/?trk=public-profile-join-page)
 - 📃 My Resume: [Resume](https://drive.google.com/file/d/1DZxRCJoMC-tafH1h54YSTm5iw7Ol83En/view?usp=sharing)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new technologies and tackling complex coding challenges.

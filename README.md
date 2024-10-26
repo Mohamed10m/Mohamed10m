@@ -69,16 +69,18 @@
 - Migrated backend from Firebase to Go for cost reduction and future blockchain implementation.
 - Managed full project lifecycle from idea crafting to testing and deployment.
 
-**Intellique AI | Android, iOS, Web**
-- Created a centralized platform for AI applications evaluation using Flutter and Firebase.
-- Implemented gamification system with missions and leaderboards to enhance user engagement.
-- Integrated Google Ads and social media sharing with dynamic links.
-- Integrated ip-api.com and newsapi.org APIs to enrich mobile applications.
+**Salon App | Android, iOS**
+- Developed a mobile application allowing customers to book appointments for haircuts and other services at their preferred barbershop.
+- Designed a feature for customers to select specific services, streamlining the booking process and reducing wait times at the salon.
+- Implemented an online payment system for customers to pay for services in advance.
+- Integrated RESTful API to enhance the app's functionality and connectivity.
+- Published on both iOS and Android with positive client feedback for functionality and user experience.
 
-**Calories Chef | Web**
-- Developed an online kitchen app for athletes using Flutter and Firebase.
-- Implemented multiple meal planning methods and payment integration with Stripe.
-- Added user roles for normal users, chefs, and admins.
+**Your Water | Android, iOS, Web**
+- Developed a travel application using Flutter with RESTful API integration and Firebase, available on Android, iOS, and Web.
+- Integrated Google Maps for selecting starting and ending points of trips, enhancing navigation convenience.
+- Implemented push notifications to keep users updated on trip status and reminders.
+- Published on iOS and Android with favorable client feedback, highlighting increased user engagement.
 
 **HoneyDo | Android, iOS, Web**
 - Developed a task management app with SMS notifications using Flutter and Firebase.

@@ -57,8 +57,7 @@
 #### Freelancer.com | Flutter Developer Freelancer
 - Completed over 9 mobile applications, with 5 successfully launched on the Apple Store and Google Play Store.
 - Delivered 5 projects on time, significantly enhancing client revenue by 60% in one project through the addition of a payment gateway and web support.
-- Tackled complex integrations like SMS notifications in the HoneyDo app and user adoption strategies in Groove Party.
-- Employed Domain Driven Design (DDD) and Agile methodologies for effective project management and delivery.
+- Tackled complex integrations like SMS notifications and user adoption strategies .
 - Collaborated with various teams including Flutter developers, backend developers, and UI/UX designers.
 - Achieved multiple 5-star ratings and positive feedback for technical skills and project commitment.
 

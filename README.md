@@ -15,7 +15,7 @@
 ---
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohamed10m)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-mahmoud-b7227a182/?trk=public-profile-join-page)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/ahmedmaher00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohamedmahmoud.shino/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohamed10m)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-mahmoud-b7227a182/?trk=public-profile-join-page)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/MohamedMAhmed1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohamedmahmoud.shino/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed10m)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,30 +25,30 @@
 | **Mobile Application**   | **Backend**       | **Frontend**  | **Artificial Intelligence** | **Developer Tools**      | **Technologies/Frameworks** |
 |---------------------------|-------------------|---------------|-----------------------------|--------------------------|------------------------------|
 | Flutter                   | Firebase          | HTML          | Deep Learning               | Android Studio           | Windows                      |
-| Dart                      | Golang            | CSS           | Machine Learning            | Xcode                    | Mac                          |
-| TDD                       | Supabase          | JavaScript    | Python                      | Gradle                   | Linux                        |
-| DDD                       | SQL               | BootStrap     | Matplotlib                  | VS Code                  | Bash                         |
-| OOP                       | No SQL            |               | Numpy                       | GoLand                   | Command Line                 |
-| State Management          | GraphQL           |               | Pandas                      | Jupyter Notebook         | Git                          |
-| Bloc                      | Firestore         |               | Scikit Learn                | TensorFlow               | GitHub                       |
-| Getx                      | Authentication    |               | TensorFlow                  | Jira                     | GitHub Actions               |
-| Provider                  | Cloud Messaging   |               |                             | Trello                   | Code Magic                   |
-| Freezed                   | Dynamic Links     |               |                             |                         | Flutter Flow                 |
-| Dependency Injection      | Realtime Database |               |                             |                         | Kaggle                       |
-| dio, http                 | SDLC              |               |                             |                         | AWS                          |
-| RESTful APIs              |                   |               |                             |                         | Docker                       |
-| JSON                      |                   |               |                             |                         | SDLC                         |
-| Twilio                    |                   |               |                             |                         | Agile                        |
-| App Store, Play Store     |                   |               |                             |                         |                              |
-| Flavors                   |                   |               |                             |                         |                              |
-| CI/CD (Codemagic)         |                   |               |                             |                         |                              |
-| Google Maps               |                   |               |                             |                         |                              |
-| Notifications             |                   |               |                             |                         |                              |
-| Mock                      |                   |               |                             |                         |                              |
-| Flutter Test              |                   |               |                             |                         |                              |
-| UI/UX                     |                   |               |                             |                         |                              |
-| Google-Ml-Kit             |                   |               |                             |                         |                              |
-| Tflite Flutter            |                   |               |                             |                         |                              |
+| Dart                      | Firestore         | CSS           | Machine Learning            | Xcode                    | Mac                          |
+| RESTful APIs              | SQL               | JavaScript    | Python                      | Gradle                   | Linux                      |
+| Solid                     | No SQL            |               | Matplotlib                  | VS Code                  | Bash                         |
+| OOP                       | Authentication    |               | Numpy                       | Figma                    | Command Line                 |
+| State Management          | Cloud Messaging   |               | Pandas                      | Asana                    | Git                          |
+| Bloc                      |  Realtime Database|               | Scikit Learn                |                          | GitHub                       |
+| Getx                      |                   |               | TensorFlow                  |                          | GitHub Actions               |
+| Provider                  |                   |               |                             |                          | Code Magic                   |
+| Freezed                   |                   |               |                             |                          | Flutter Flow                 |
+| Dependency Injection      |                   |               |                             |                          | Kaggle                       |
+| dio, http                 |                   |               |                             |                          |                              |
+| SQFlite Flutter           |                   |               |                             |                          |                              |
+| JSON                      |                   |               |                             |                          |                              |
+| Play Store                |                   |               |                             |                          |                              |
+| App Store,                |                   |               |                             |                              |                              |
+| Flavors                   |                   |               |                             |                          |                              |
+| CI/CD (Codemagic)         |                   |               |                             |                          |                              |
+| Google Maps               |                   |               |                             |                          |                              |
+| Notifications             |                   |               |                             |                          |                              |
+| Mock                      |                   |               |                             |                          |                              |
+| Flutter Test              |                   |               |                             |                          |                              |
+| UI/UX                     |                   |               |                             |                          |                              |
+| Google-Ml-Kit             |                   |               |                             |                          |                              |
+|                           |                   |               |                             |                          |                              |
 
 ---
 

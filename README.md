@@ -100,17 +100,10 @@ See above table for detailed skills.
 ---
 
 ### Certifications:
-* Mobile Application Development Using Flutter | Aug 2018 – present | Information Technology Institute (ITI)
+* Mobile Application Development Using Flutter | Jan 2020 – present | Information Technology Institute (ITI)
 
 ---
 
-### Achievements and Leadership:
-* Honored by the Prince for achieving 1st in school and 2nd in Eastern Province, demonstrating focus and ambition.
-* Led the robotics team to fourth and fifth place in competitions, showcasing leadership and strategic thinking.
-* Provided free courses to 300+ students, demonstrating commitment to community and knowledge sharing.
-* Mentored over 10 peers in Flutter, enhancing skills and project outcomes with focused and ambitious leadership.
-
----
 
 ### Languages:
 * Arabic (Native)

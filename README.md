@@ -54,7 +54,7 @@
 
 ### Experience:
 
-#### Freelancer.com | Flutter Developer Freelancer
+#### Flutter Developer
 - Completed over 9 mobile applications, with 5 successfully launched on the Apple Store and Google Play Store.
 - Delivered 5 projects on time, significantly enhancing client revenue by 60% in one project through the addition of a payment gateway and web support.
 - Tackled complex integrations like SMS notifications and user adoption strategies .
